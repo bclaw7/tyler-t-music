@@ -22,7 +22,10 @@ export default class Photos extends Component {
             <img src='img/tylert-collage.jpg' alt='collage' />
             <p className='legend'>Check out the new album: Wildflower</p>
           </div>
-
+          <div>
+            <img src='img/tyler-t-sings.jpg' alt='live in Colorado' />
+            <p className='legend'>Live from Colorado!</p>
+          </div>
           <div>
             <img
               src='img/tylert-aggie.jpeg'
