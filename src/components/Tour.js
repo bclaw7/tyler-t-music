@@ -15,8 +15,11 @@ export class Tour extends Component {
         }}>
         <Title name='shows' title='!!!' />
         <br />
+<<<<<<< HEAD
         <br />
         <br />
+=======
+>>>>>>> d17011351af8b59de59ff589c7ac9bc138952a54
         <Container>
           <Table className='text-info'>
             <thead>

@@ -23,6 +23,13 @@ export default class Photos extends Component {
             <p className='legend'>Check out the new album: Wildflower</p>
           </div>
           <div>
+<<<<<<< HEAD
+=======
+            <img src='img/tyler-t-sings.jpg' alt='live in Colorado' />
+            <p className='legend'>Live from Colorado!</p>
+          </div>
+          <div>
+>>>>>>> d17011351af8b59de59ff589c7ac9bc138952a54
             <img
               src='img/tylert-aggie.jpeg'
               alt='live at The Aggie, Fort Collins, Colorado'
@@ -38,6 +45,13 @@ export default class Photos extends Component {
             </p>
           </div>
           <div>
+<<<<<<< HEAD
+=======
+            <img src='img/tylert-radio.jpg' alt='on air' />
+            <p className='legend'>Live On Air at KZMU - Moab, UT - 2010</p>
+          </div>
+          <div>
+>>>>>>> d17011351af8b59de59ff589c7ac9bc138952a54
             <img
               src='img/tylert-sepia.jpg'
               alt='live at haunted Hotel Monte Vista'
@@ -78,10 +92,13 @@ export default class Photos extends Component {
             <img src='img/tyler-t-lubbock.jpg' alt='Live in Lubbock, Tx' />
             <p className='legend'>Tyler T. - Live in Lubbock, Texas</p>
           </div>
+<<<<<<< HEAD
           <div>
             <img src='img/tyler-t-sings.jpg' alt='live in Colorado' />
             <p className='legend'>Live from Colorado!</p>
           </div>
+=======
+>>>>>>> d17011351af8b59de59ff589c7ac9bc138952a54
         </Carousel>
       </>
     );
